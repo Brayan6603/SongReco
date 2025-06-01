@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">songReco</string>
+    <string name="record_button">GRABAR</string>
+    <string name="stop_button">DETENER</string>
+    <string name="recording_status">Grabando...</string>
+    <string name="recognizing_status">Reconociendo canción...</string>
+    <string name="view_history">Ver Historial</string>
+    <string name="song_title">Título: %s</string>
+    <string name="song_artist">Artista: %s</string>
+    <string name="song_album">Álbum: %s</string>
+    <string name="open_spotify">Abrir en Spotify</string>
+    <string name="open_youtube">Abrir en YouTube Music</string>
+</resources>
